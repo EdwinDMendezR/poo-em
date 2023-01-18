@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="polimorfismo.PolimorfismoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-18T21:11:25" hostname="EDWINP-MENDEZ" time="0.013">
+  <properties/>
+  <testcase name="animal()" classname="polimorfismo.PolimorfismoTest" time="0.012"/>
+  <testcase name="animalA()" classname="polimorfismo.PolimorfismoTest" time="0.001"/>
+  <testcase name="animalB()" classname="polimorfismo.PolimorfismoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
