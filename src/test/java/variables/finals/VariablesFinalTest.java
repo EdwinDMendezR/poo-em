@@ -6,14 +6,11 @@ import org.junit.jupiter.api.Test;
 public class VariablesFinalTest {
 
     class ObjectA {
-
         final String value;
 
         ObjectA(String value) {
             this.value = value;
         }
-
-
     }
 
 
