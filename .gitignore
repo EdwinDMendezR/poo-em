@@ -1,4 +1,32 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
 
-.gradle/buildOutputCleanup/buildOutputCleanup.lock
-build/classes/java/test/polimorfismo/inclusion/PolimorfismoInclusionTest$ObjectPrincipal.class
-build/reports/tests/test/packages/polimorfismo.inclusion.html
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
