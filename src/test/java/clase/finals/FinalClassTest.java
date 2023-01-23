@@ -3,7 +3,7 @@ package clase.finals;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class FinalTest {
+public class FinalClassTest {
 
     final class Sistema {
         final  String getNombre() {
