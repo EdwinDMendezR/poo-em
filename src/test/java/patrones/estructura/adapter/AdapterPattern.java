@@ -1,4 +1,4 @@
-package patrones.estructura;
+package patrones.estructura.adapter;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
