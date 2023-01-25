@@ -1,3 +1,0 @@
-PriorityQueue: [A, B]
-Removed element: A
-.PriorityQueue after removing an element: [B]
