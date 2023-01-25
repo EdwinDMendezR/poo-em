@@ -17,8 +17,6 @@ R
 "src/test/java/clase/ClaseTest.java,8\e\8e89037db25bfa4887d1628f53008b319aa24fc3
 ^
 .src/test/java/clase/finals/FinalClassTest.java,4\f\4f674c858c04e5b48ec1559fa07bfb917569513f
-`
-0src/test/java/clase/statics/StaticClassTest.java,4\4\445c7d97b12e7e7138371ad244961bb8dbb9aa93
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
