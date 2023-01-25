@@ -1,4 +1,4 @@
-package patrones.composite;
+package patrones.estructura.composite;
 
 public class File extends Component {
 

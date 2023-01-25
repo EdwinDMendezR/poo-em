@@ -1,4 +1,4 @@
-package patrones.composite;
+package patrones.estructura.composite;
 
 abstract class Component {
     protected String name;

@@ -1,4 +1,4 @@
-package patrones.composite;
+package patrones.estructura.composite;
 
 import org.junit.jupiter.api.Test;
 
