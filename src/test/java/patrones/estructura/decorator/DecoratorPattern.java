@@ -27,7 +27,7 @@ public class DecoratorPattern {
         cafe = new LecheDecorator(cafe);
         cafe = new ChocolateDecorator(cafe);
         cafe = new CanelaDecorator(cafe);
-        
+
         // Assert
         Assertions.assertEquals(5.75, cafe.getPrecio());
 
