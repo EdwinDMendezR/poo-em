@@ -12,7 +12,7 @@ public class FacadePattern {
         BankFacade facade = new BankFacade(bank);
         long accountA = 12345;
         long accountB = 67890;
-        
+
         // Act
         facade.transfer(accountA, accountB, 100.0);
 
